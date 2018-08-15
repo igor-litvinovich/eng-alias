@@ -1,5 +1,1 @@
-import App from './app/App';
-
-export {
-    App
-}
+// file for import and export components.
