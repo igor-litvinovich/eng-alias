@@ -1,1 +1,5 @@
-// import and export pages here.
+import Home from './home/home';
+
+export {
+  Home
+}
