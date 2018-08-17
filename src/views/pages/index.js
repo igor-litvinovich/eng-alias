@@ -1,5 +1,5 @@
-import Home from './home/home';
+import HomePage from './home/homePage';
 
 export {
-  Home
+  HomePage
 }

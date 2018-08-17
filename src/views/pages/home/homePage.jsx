@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import logo from '../../../assets/logo.svg';
-import './home.scss';
+import './homePage.scss';
 
-class Home extends Component {
+class HomePage extends Component {
   render() {
     return (
       <div className="home">
@@ -18,4 +18,4 @@ class Home extends Component {
   }
 }
 
-export default Home;
+export default HomePage;
