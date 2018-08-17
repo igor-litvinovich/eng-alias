@@ -1,1 +1,5 @@
-// file for import and export components.
+import DictaphoneComponent from './Dictaphone/DictaphoneComponent';
+
+export {
+  DictaphoneComponent
+}
