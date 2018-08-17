@@ -1,13 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { BrowserRouter } from 'react-router-dom';
-import { Provider } from 'react-redux';
 import Immutable from 'immutable';
-import registerServiceWorker from './registerServiceWorker';
-import rootReducer from './rootReducer';
+import { Provider } from 'react-redux';
+import { BrowserRouter } from 'react-router-dom';
 import Router from './router';
+import rootReducer from './rootReducer';
 import storeFactory from './helpers/storeFactory';
 import  initialState from './constants/initialState';
+import registerServiceWorker from './registerServiceWorker';
 
 import './index.scss';
 
